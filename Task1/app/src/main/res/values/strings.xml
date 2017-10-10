@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Task1</string>
+    <string name="count">Count</string>
+    <string name="button_start">start</string>
+    <string name="button_stop">stop</string>
+    <string name="button">button</string>
+    <string name="text">text</string>
+    <string name="button_text">button_text</string>
+    <string name="current_time">time</string>
 </resources>
